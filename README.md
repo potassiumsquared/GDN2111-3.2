@@ -1,1 +1,3 @@
-# GDN2111-3.2
+# SCD1_StarterContent
+
+Developed with Unreal Engine 5
